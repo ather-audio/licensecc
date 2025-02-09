@@ -1,5 +1,5 @@
 [submodule "license-generator"]
 	path = extern/license-generator
 	url = https://github.com/ather-audio/lcc-license-generator.git
-	branch = .
+	branch = main
 	ignore = all
