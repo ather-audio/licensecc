@@ -1,0 +1,3 @@
+[submodule "extern/lcc-license-generator"]
+	path = extern/lcc-license-generator
+	url = git@github.com:ather-audio/lcc-license-generator.git
