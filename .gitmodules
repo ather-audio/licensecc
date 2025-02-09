@@ -2,4 +2,3 @@
 	path = extern/license-generator
 	url = https://github.com/ather-audio/lcc-license-generator.git
 	branch = main
-	ignore = all
